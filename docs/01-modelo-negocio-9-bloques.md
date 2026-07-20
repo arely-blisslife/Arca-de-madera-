@@ -1,23 +1,23 @@
-# Modelo de negocio de 9 bloques - Arca de Madera
+# Modelo de negocio de 9 bloques - Arca de Madera (Cancun)
 
 ## 1) Segmentos de clientes
 
-- Familias y parejas de 28 a 55 anos que buscan muebles durables para hogar.
+- Familias y parejas de 28 a 55 anos en Cancun que buscan muebles durables para hogar.
 - Profesionistas que equipan departamentos o estudios con piezas de diseno.
-- Arquitectos e interioristas que requieren proveedor confiable para proyectos.
-- Negocios boutique (cafes, hoteles pequenos, oficinas) que necesitan mobiliario de identidad.
+- Arquitectos e interioristas de Cancun y Riviera Maya que requieren proveedor confiable para proyectos.
+- Negocios boutique (cafes, hoteles pequenos, oficinas y rentas vacacionales) que necesitan mobiliario de identidad.
 
 ## 2) Propuesta de valor
 
-- Muebles de madera con diseno funcional, estetico y larga vida util.
+- Muebles de madera con diseno funcional, estetico y larga vida util para clima costero.
 - Personalizacion de medidas, acabados y combinaciones para cada espacio.
-- Fabricacion responsable con trazabilidad de proveedor local.
+- Fabricacion mayorista en Ocotlan, Jalisco, con trazabilidad de calidad.
 - Asesoria de compra para elegir piezas segun espacio, estilo y presupuesto.
 - Entrega e instalacion con seguimiento postventa.
 
 ## 3) Canales
 
-- Showroom fisico por cita.
+- Showroom fisico por cita en Cancun.
 - Catalogo digital (Instagram, Facebook, WhatsApp Business).
 - Sitio web con catalogo, cotizador y solicitud de asesorias.
 - Alianzas con despachos de arquitectura e interiorismo.
@@ -40,7 +40,7 @@
 
 ## 6) Recursos clave
 
-- Red de proveedores en Ocotlan, Jalisco.
+- Fabricante mayorista en Ocotlan, Jalisco, con capacidad de produccion a la medida.
 - Catalogo de productos base y biblioteca de acabados.
 - Marca, contenido visual y posicionamiento digital.
 - Sistema de CRM y seguimiento comercial.
@@ -56,7 +56,8 @@
 
 ## 8) Socios clave
 
-- Esmisfer y otros fabricantes de Ocotlan.
+- Fabricante principal de Ocotlan (muebles a medida de mayoreo).
+- Red de fabricantes complementarios de Ocotlan.
 - Proveedores de logistica y ultima milla.
 - Talleres de acabado y tapiceria.
 - Arquitectos e interioristas aliados.
@@ -64,17 +65,17 @@
 
 ## 9) Estructura de costos
 
-- Compra/fabricacion de muebles.
+- Compra/fabricacion de muebles en Ocotlan.
 - Logistica, almacenaje e instalacion.
 - Marketing digital y contenido.
 - Renta, operacion del showroom y nomina base.
 - Software (CRM, facturacion, analitica).
 
-## Hipotesis criticas a validar
+## Hipotesis criticas a validar en Cancun
 
 - El cliente paga 15% a 25% mas por personalizacion y calidad percibida.
 - El canal principal de adquisicion sera Instagram + WhatsApp.
-- Arquitectos pueden aportar al menos 20% de ventas en 6 meses.
+- Arquitectos e interioristas pueden aportar al menos 25% de ventas en 6 meses.
 
 ## Meta de referencia
 

@@ -1,18 +1,20 @@
 {
   "project": "Arca de Madera",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updated_at": "2026-07-20",
+  "market_focus": "Cancun, Quintana Roo",
+  "supplier_profile": "Fabricante mayorista en Ocotlan, Jalisco, especializado en muebles de madera a medida y calidad boutique",
   "business_model_canvas": {
     "customer_segments": [
-      "Familias y parejas de 28 a 55 anos",
+      "Familias y parejas de 28 a 55 anos en Cancun",
       "Profesionistas que equipan departamentos",
-      "Arquitectos e interioristas",
-      "Negocios boutique"
+      "Arquitectos e interioristas de Cancun y Riviera Maya",
+      "Negocios boutique y rentas vacacionales"
     ],
     "value_propositions": [
       "Muebles de madera de alta durabilidad",
       "Personalizacion por medida y acabado",
-      "Diseno funcional con estilo artesanal",
+      "Diseno funcional con estilo artesanal y calidad boutique",
       "Asesoria y postventa"
     ],
     "channels": [
@@ -35,8 +37,8 @@
       "Accesorios de decoracion"
     ],
     "key_resources": [
-      "Proveedores en Ocotlan",
-      "Catalogo y marca",
+      "Fabricante mayorista en Ocotlan",
+      "Identidad corporativa y catalogo",
       "CRM comercial",
       "Equipo de ventas y operaciones"
     ],
@@ -48,7 +50,7 @@
       "Analisis de KPIs"
     ],
     "key_partners": [
-      "Esmisfer",
+      "Fabricante principal de Ocotlan",
       "Fabricantes y talleres de acabado",
       "Logistica e instalacion",
       "Arquitectos e interioristas"
