@@ -1,0 +1,64 @@
+{
+  "project": "Arca de Madera",
+  "version": "1.0.0",
+  "updated_at": "2026-07-20",
+  "business_model_canvas": {
+    "customer_segments": [
+      "Familias y parejas de 28 a 55 anos",
+      "Profesionistas que equipan departamentos",
+      "Arquitectos e interioristas",
+      "Negocios boutique"
+    ],
+    "value_propositions": [
+      "Muebles de madera de alta durabilidad",
+      "Personalizacion por medida y acabado",
+      "Diseno funcional con estilo artesanal",
+      "Asesoria y postventa"
+    ],
+    "channels": [
+      "Showroom por cita",
+      "Instagram y Facebook",
+      "WhatsApp Business",
+      "Sitio web con catalogo",
+      "Alianzas B2B"
+    ],
+    "customer_relationships": [
+      "Atencion consultiva 1:1",
+      "Seguimiento por CRM",
+      "Programa de referidos",
+      "Garantia y soporte postventa"
+    ],
+    "revenue_streams": [
+      "Venta de muebles estandar",
+      "Venta de muebles personalizados",
+      "Instalacion y envio premium",
+      "Accesorios de decoracion"
+    ],
+    "key_resources": [
+      "Proveedores en Ocotlan",
+      "Catalogo y marca",
+      "CRM comercial",
+      "Equipo de ventas y operaciones"
+    ],
+    "key_activities": [
+      "Diseno y curaduria de catalogo",
+      "Marketing y ventas",
+      "Compras y gestion operativa",
+      "Entrega e instalacion",
+      "Analisis de KPIs"
+    ],
+    "key_partners": [
+      "Esmisfer",
+      "Fabricantes y talleres de acabado",
+      "Logistica e instalacion",
+      "Arquitectos e interioristas"
+    ],
+    "cost_structure": [
+      "Costo de producto",
+      "Logistica",
+      "Marketing",
+      "Operacion y nomina",
+      "Software y herramientas"
+    ]
+  }
+}
