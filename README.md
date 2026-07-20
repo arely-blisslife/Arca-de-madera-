@@ -19,6 +19,7 @@ escalable, usando el modelo de los 9 bloques de negocio.
 - `docs/02-plan-45-dias-acelerado.md`: plan de implementacion acelerado por fases.
 - `docs/03-kpis-y-control.md`: tablero de indicadores y control de gestion.
 - `data/business-canvas.json`: version estructurada del modelo para usar en apps.
+- `data/brand-identity-system.json`: sistema completo de identidad corporativa y prompts de generacion.
 
 ## Siguiente paso recomendado
 

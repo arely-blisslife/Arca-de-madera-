@@ -1,0 +1,149 @@
+{
+  "project": {
+    "name": "Arca de Madera",
+    "tagline": "Muebles & Decoracion",
+    "market": "Cancun, Quintana Roo",
+    "supplier": {
+      "location": "Ocotlan, Jalisco",
+      "type": "Fabricante mayorista",
+      "specialty": "Muebles de madera a medida y calidad boutique"
+    }
+  },
+  "brand_strategy": {
+    "positioning": "Marca boutique de muebles de madera a medida para hogares y negocios que buscan diseno elegante, calidad durable y asesoria personalizada.",
+    "purpose": "Transformar espacios en Cancun con muebles de madera que unan funcionalidad, calidez y estilo.",
+    "vision": "Ser la marca de referencia en mobiliario de madera boutique en Cancun y Riviera Maya.",
+    "values": [
+      "Calidad real",
+      "Diseno funcional",
+      "Cercania",
+      "Cumplimiento",
+      "Honestidad comercial"
+    ],
+    "tone_of_voice": {
+      "style": "Cercano, elegante, claro y experto",
+      "do": [
+        "Hablar con seguridad y precision",
+        "Usar beneficios concretos y medibles",
+        "Transmitir calidez y confianza"
+      ],
+      "dont": [
+        "Usar lenguaje rebuscado",
+        "Prometer tiempos imposibles",
+        "Abusar de descuentos como argumento principal"
+      ]
+    }
+  },
+  "visual_identity": {
+    "logo_reference": {
+      "style": "Tipografico serif clasico, acabado grabado en relieve, composicion centrada",
+      "layout": "Nombre principal en dos lineas con subtitulo inferior",
+      "icon_usage": "Version principal sin icono o con icono arbol minimal en aplicaciones de fachada",
+      "safe_area": "0.5x de la altura de la letra A alrededor del logo",
+      "min_size_px": 120,
+      "background_rules": [
+        "Preferir fondos textura piedra, arena o marfil",
+        "Mantener contraste alto en aplicaciones oscuras",
+        "No usar efectos neon ni degradados saturados"
+      ]
+    },
+    "color_system": {
+      "primary": {
+        "wood_nogal": "#6D4C3D",
+        "sand_beige": "#C9B8A2",
+        "ivory_stone": "#F2ECE3"
+      },
+      "secondary": {
+        "mangrove_green": "#3E5A4C",
+        "graphite": "#2F2F2F",
+        "warm_gold_light": "#B38A56"
+      },
+      "usage": {
+        "60_30_10_rule": "60% neutros claros, 30% tonos madera, 10% acentos verdes o dorados",
+        "digital_cta": "Botones en wood_nogal con texto ivory_stone"
+      }
+    },
+    "typography": {
+      "display": {
+        "family": "Cormorant Garamond",
+        "fallback": "Georgia, serif",
+        "weights": [500, 600, 700]
+      },
+      "body": {
+        "family": "Manrope",
+        "fallback": "Helvetica, Arial, sans-serif",
+        "weights": [400, 500, 600]
+      },
+      "scale": {
+        "h1": "56/62",
+        "h2": "40/46",
+        "h3": "30/36",
+        "body": "18/28",
+        "small": "14/22"
+      }
+    },
+    "image_direction": {
+      "style": "Editorial calido, luz dorada, textura de materiales naturales",
+      "subjects": [
+        "Muebles a medida en espacios habitados",
+        "Detalles de vetas y acabados",
+        "Fachada con iluminacion calida tipo boutique"
+      ],
+      "avoid": [
+        "Fotos frias de estudio sin contexto",
+        "Colores neon",
+        "Escenas sobrecargadas de elementos"
+      ]
+    }
+  },
+  "storefront_direction": {
+    "concept": "Boutique artesanal contemporanea con fachada de piedra, madera y vegetacion integrada",
+    "materials": [
+      "Piedra natural",
+      "Madera oscura",
+      "Herreria negra mate",
+      "Cristal transparente"
+    ],
+    "lighting": {
+      "temperature": "2700K-3000K",
+      "strategy": [
+        "Bano de luz calida en fachada",
+        "Acentos en logo y arco principal",
+        "Iluminacion interior visible desde calle"
+      ]
+    },
+    "signage": {
+      "main_sign": "Arca de Madera en tipografia serif, iluminacion calida frontal",
+      "sub_sign": "Linea horizontal decorativa con punto central",
+      "placement": "Centro de fachada sobre acceso principal"
+    }
+  },
+  "applications": {
+    "priority_assets": [
+      "Logo principal horizontal",
+      "Logo vertical",
+      "Isotipo opcional arbol",
+      "Paleta oficial en RGB y CMYK",
+      "Plantillas de Instagram",
+      "Portada de catalogo",
+      "Firma de WhatsApp Business",
+      "Tarjeta digital",
+      "Plantilla de cotizacion"
+    ],
+    "social_profiles": {
+      "instagram_bio_template": "Muebles a medida en Cancun | Calidad boutique desde Ocotlan | Asesoria y cotizacion por WhatsApp",
+      "whatsapp_greeting": "Hola, gracias por contactar a Arca de Madera. Te ayudamos a crear muebles a medida para tu espacio en Cancun."
+    }
+  },
+  "ai_generation_prompts": {
+    "logo_prompt_es": "Logotipo tipografico elegante para marca de muebles de madera llamada Arca de Madera, estilo serif clasico premium, grabado en relieve sobre textura de piedra arena, composicion centrada, subtitulo Muebles & Decoracion, iluminacion suave, look boutique artesanal contemporaneo, sin elementos neon, sin estilo cartoon.",
+    "storefront_prompt_es": "Fachada de tienda boutique de muebles de madera en Cancun, arquitectura con arcos, piedra natural y madera oscura, vegetacion integrada en fachada, letrero Arca de Madera con luz calida, interior acogedor visible, estilo premium artesanal contemporaneo, fotografia hiperrealista al atardecer, reflejos sutiles de lluvia en calle.",
+    "negative_prompt": "neon, futurista, cyberpunk, cartoon, low quality, saturated purple, plastic textures, generic mall store"
+  },
+  "brand_management": {
+    "version": "1.0.0",
+    "owner": "Direccion de Marca Arca de Madera",
+    "last_update": "2026-07-20",
+    "approval_status": "base_aprobada_para_diseno"
+  }
+}
